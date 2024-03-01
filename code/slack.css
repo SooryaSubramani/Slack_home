@@ -1,0 +1,712 @@
+p,h1,div {
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding-top: 125px;
+}
+
+.content
+{
+    text-align: left;
+    width: 50%;
+  
+}
+
+
+.image{
+    width: 50%;
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: 20px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.C{
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    
+}
+
+.C1{
+    
+    font-weight: 700;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+
+.t{
+    font-weight: 650;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10PX;
+    
+}
+.try_button{
+    margin-top: 20px;
+}
+.TRY{
+    background-color: rgb(73, 25, 74);
+    border-color: rgb(73, 25, 74);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: aliceblue;
+    width: 150PX;
+    height: 60PX;
+    border-radius: 5PX;
+
+}
+
+.CONTACT{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(73, 25, 74);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgb(73, 25, 74);
+    width: 200PX;
+    height: 60PX;
+    border-radius: 5PX;
+
+}
+
+.main2{
+    
+    background-color: rgb(240, 231, 219);
+    margin-top: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.main-2{
+margin: 0% auto;
+max-width: 1200px;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+background-color: rgb(240, 231, 219);
+
+
+
+}
+
+.get{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.w{
+    text-align: center;
+    font-size: 18.5px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
+.num1{
+    
+    margin: 0% auto;
+   
+}
+.num{
+max-width: 1200px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+
+
+.x,.x2,.x1{
+    text-align: left;
+    width: 200px;
+}
+
+/*.x1{
+    
+        text-align: left;
+        width: 200px;
+    
+}
+
+.x2{
+    
+    text-align: left;
+    width: 200px;
+
+}
+*/
+.x4{
+font-size: 70px;
+font-weight: 750;
+font-family:Arial, Helvetica, sans-serif;
+padding-bottom: 0px;
+margin-bottom: 0px;
+}
+
+.faster{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+
+.six{
+    font-size: 70px;
+    font-weight: 750;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    }
+    
+.decrease{
+        font-family:Arial, Helvetica, sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+        
+    }
+
+.two{
+        font-size: 70px;
+        font-weight: 750;
+        font-family:Arial, Helvetica, sans-serif;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        }
+        
+.faster1{
+            font-family:Arial, Helvetica, sans-serif;
+            font-weight: 600;
+            font-size: 15px;
+            
+        }
+
+.claims{
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 530;
+    color: rgb(110, 110, 110);
+    
+}
+
+.main3{
+    
+    background-color: whitesmoke;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+  }
+
+  .main-3{
+    max-width: 1200px;
+    margin: 0% auto;
+    display: flex;
+        }
+
+  .A1-M{
+    
+    background-color: rgb(56, 15, 61);
+    color: rgb(254, 252, 252);
+    padding: 20px;
+    border-radius: 5px 0 0 5px;
+    max-width: 40%;
+      }
+
+  .a1{
+    display: flex;
+    
+  }
+ 
+
+  .A1M{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+  }
+
+    .channels{
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  .Direct{
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  .a1-bigcorp{
+    color: black;
+    padding: 20px;
+    background-color: white;
+    max-width: 60%;
+   
+  }
+.Connect{
+    margin-left: 30px;
+}
+  
+.connect1{
+    font-weight: 700;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bring, .strength, .send{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+margin: 20px;
+}
+
+span{
+    color: rgb(48, 105, 170);
+}
+
+.main4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 1200px;
+    margin: 0% auto;
+    
+  }
+
+.outside{
+    width: 50%;
+    padding-top: 50px;
+    
+}
+
+.outimage{
+    width: 50%;
+    object-fit: cover;
+}
+
+.outimg{
+    padding: 15%;
+}
+
+.main5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 1200px;
+    margin: 0% auto;
+    
+  }
+
+  .tool{
+    width: 50%;
+    padding-top: 80px;
+    margin: 30px;
+    padding-left: 30px;
+    
+    
+  }
+
+  .toolimage{
+    width: 50%;
+    max-width: 450px;
+    object-fit: cover;
+    margin: 30px;
+    }
+
+  .toolimg{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+.main6{
+    max-width: 1200px;
+    margin: 0% auto;  
+    padding: 30px;  
+}
+  .how, .it{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .how{
+    margin-top: 20px;
+    padding: 30px;
+    font-weight: 700;
+    font-size: 50px;
+  }
+
+  .it{
+    padding: 25px;
+    font-size: 20px;
+  }
+.steps{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.invite, .partner, .approval, .create{
+width: 250px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.step{
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.click{
+    font-size: 17.15px;
+    font-weight: 500;
+}
+
+.built{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    padding: 30px;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.main-7{
+background-color: rgb(240, 231, 219);;
+}
+
+.main7{
+    max-width: 1200px;
+    margin: 0% auto;
+    background-color: rgb(240, 231, 219);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.roles{
+    width: 50%;
+}
+.allows{
+    font-size: 25px;
+}
+
+.rolesimg{
+    max-height: 500px;
+    max-width: 500px;
+    object-fit: cover;
+
+}
+
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0% auto;
+    position: relative;
+    top: -130px;
+}
+.box{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+.box:hover{
+    transform: scale(1.1);
+}
+.close{
+    max-width: 50px;
+    max-height: 50px;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+.sale{
+    padding-left: 10px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.arrow{
+    max-width: 40px;
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+
+.blogimg{
+    width: 250px;
+    padding: 20px;
+    object-fit: fill;
+    margin: 20px;
+    margin-bottom: 0px;
+}
+
+
+.blog1{
+    max-width: 335px;
+    background-color: snow;
+   
+}
+
+.blog2{
+    padding: 20px;
+    margin: 20px;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.main8{
+    max-width: 1200px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.drop{
+    max-width: 8px;
+    max-height: 8px;
+}
+
+.Features{
+    display: flex;
+    /*padding: 10px;*/
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    font-weight: 550;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.slack_icon{
+    display: flex;
+    position: relative;
+    top: 13px;
+}
+
+.slackicon{
+    max-width: 25px;
+    max-height: 25px;
+    padding: 0px;
+    position: relative;
+    top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.menu_content{
+    display: flex;
+       
+}
+.menu{
+    display: flex;
+    width: 1200px;
+    margin: 0% auto;
+    background-color: rgb(255, 255, 255);
+    /*padding: 10px;*/
+    position: fixed;
+    border-radius: 40px;
+    margin-bottom: 30px;
+    z-index: 1;
+}
+.drop{
+    margin-top: 7px;
+    margin-left: 3px;
+}
+
+.slackmenu{
+    margin-right: 20px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    margin-top: 7.5px;
+    margin-bottom: 10px;
+    }
+
+.search{
+    margin:0% auto;
+    max-width: 20px;
+    max-height: 20px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    top: 30px;
+   
+    left: -145px;
+}
+
+.search1{
+    max-width: 1200px;
+    margin: 0% auto;
+}
+
+.signin{
+    font-weight: 600;
+    position: relative;
+    display: flex;
+    align-items: center;
+    top: 9px;
+    left: 26px;
+    }
+
+.talk_button{
+    position: relative;
+    display: flex;
+    align-items: center;
+    top: -19px;
+    left: 128px;
+}
+
+.talk{
+    margin-left: 0px;
+    margin-right: 10px;
+    background-color: transparent;
+    padding: 12px;
+    border-radius: 4px;
+    border-color: rgb(61, 14, 73);
+    color: rgb(61, 14, 73);
+    font-weight: 600;
+}
+
+.try_for{
+    margin-left: 10px;
+    background-color: rgb(61, 14, 73);
+    padding: 12px;
+    color: white;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.menu1{
+    max-width: 1200px;
+    margin: 0% auto;
+     }
+
+.main-6{
+    max-width: 1200px;
+    margin: 0% auto;  
+    padding: 30px; 
+    background-color: whitesmoke; 
+}
+
+.main-8{
+    background-color: whitesmoke; 
+}
+
+.arrow1{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+   
+}
+
+.main-9{
+    background-color: rgb(61, 14, 73);
+    
+    clip-path: ellipse(75% 100% at center top);
+}
+
+.main9{
+    font-weight: 900;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    margin-top: 30px;
+    text-align: center;
+    margin: 0% auto;
+    color: white;
+    max-width: 1200px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+.in{
+    position: relative;
+    top: 80px;
+}
+
+.csale{
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+    color: rgb(61, 14, 73);
+    font-weight: 400;
+    position: relative;
+    top: 130PX;
+
+}
+
+.main10{
+    margin-top: 30px;
+    max-width: 1200px;
+    width: fit-content;
+    margin: 0% auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.why, .product, .pricing, .resources, .company{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.vs{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(48, 48, 48);
+}
+
+.slack_img{
+    max-width: 50px;
+    max-height: 50px;
+    position: relative;
+    left: -200px;
+    top: 20px;
+}
+
+.dark{
+    background-color: rgba(36, 35, 35, 0.892);
+    color: rgb(255, 85, 0);
+
+}
+
+.cb{
+    background-color: transparent;
+}
+
+
+/* .Dark{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+.cb{
+    width: 200px;
+    height: 500px;
+    background-color: blue;
+} */
+
+
+.dark .main2{
+    background-color: black;
+}
